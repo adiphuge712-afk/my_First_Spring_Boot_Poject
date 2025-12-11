@@ -1,0 +1,5 @@
+<nav>
+<a href="/">Home</a>
+<a href="/about">About</a>
+<a href="/dashboard">Dashboard</a>
+</nav>
